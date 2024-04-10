@@ -1,4 +1,5 @@
+FROM python:3.10
 
-FROM alpine:3.16
-COPY . .
+RUN mkdir -p /my_config
+COPY myconfig /my_config
 
