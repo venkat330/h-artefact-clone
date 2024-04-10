@@ -1,0 +1,5 @@
+FROM ${base}:${version}
+
+RUN mkdir -p /my_config
+COPY myconfig /my_config
+
