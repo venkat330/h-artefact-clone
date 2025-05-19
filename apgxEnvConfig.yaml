@@ -13,7 +13,7 @@ envs:
     apigeeOrgName: dmz-apgi-pre
   int01:
     name: int01
-    apigeeOrgName: dmz-apgi-int01
+    apigeeOrgName: dmz-apge-int01
 
     
 
