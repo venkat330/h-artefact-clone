@@ -1,0 +1,23 @@
+envs:
+  tst:
+    name: tst
+    apigeeOrgName: dmz-apgi-tst
+  bld:
+    name: bld
+    apigeeOrgName: dmz-apgi-bld
+  prd:
+    name: prd
+    apigeeOrgName: dmz-apgi-prd
+  pre:
+    name: pre
+    apigeeOrgName: dmz-apgi-pre
+  int01:
+    name: int01
+    apigeeOrgName: dmz-apgi-int01
+
+    
+
+
+
+
+
